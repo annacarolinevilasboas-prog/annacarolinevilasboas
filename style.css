@@ -1,0 +1,66 @@
+body {
+    font-family: Arial;
+    background-image: url("https://static.vecteezy.com/ti/fotos-gratis/p2/66154402-agua-viva-no-fundo-azul-foto.jpeg");
+    background-size: cover;
+    text-align: center;
+}
+
+
+
+
+
+
+.login {
+    background: rgb(254, 253, 249);
+    width: 300px;
+    padding: 30px;
+    margin: 150px auto;
+    border-radius: 20px;
+}
+
+
+
+
+h1 {
+    color: #f095ca;
+}
+
+
+
+
+p {
+    color: gray;
+}
+
+
+
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+
+
+
+button {
+    width: 97%;
+    padding: 10px;
+    margin: 10px 0;
+    background: #f095ca;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+
+
+
+a {
+    color: #f095ca;
+}
+
+
